@@ -1,0 +1,31 @@
+isbn,book_title,count(isd.issued_id)
+978-0-06-025492-6,"Where the Wild Things Are",1
+978-0-06-112008-4,"To Kill a Mockingbird",1
+978-0-06-112241-5,"The Kite Runner",1
+978-0-06-440055-8,"Charlotte's Web",1
+978-0-09-957807-9,"A Game of Thrones",1
+978-0-14-027526-3,"A Tale of Two Cities",1
+978-0-14-044930-3,"The Histories",1
+978-0-14-118776-1,"One Hundred Years of Solitude",1
+978-0-14-143951-8,"Pride and Prejudice",1
+978-0-141-44171-6,"Jane Eyre",1
+978-0-19-280551-1,"The Guns of August",1
+978-0-307-37840-1,"The Alchemist",1
+978-0-307-58837-1,"Sapiens: A Brief History of Humankind",1
+978-0-330-25864-8,"Animal Farm",2
+978-0-345-39180-3,Dune,1
+978-0-375-41398-8,"The Diary of a Young Girl",1
+978-0-393-05081-8,"A Peoples History of the United States",1
+978-0-393-91257-8,"Guns, Germs, and Steel: The Fates of Human Societies",1
+978-0-451-52994-2,"Moby Dick",1
+978-0-452-28240-7,"Brave New World",1
+978-0-525-47535-5,"The Great Gatsby",2
+978-0-553-29698-2,"The Catcher in the Rye",1
+978-0-670-81302-4,"The Road",1
+978-0-679-64115-3,1984,1
+978-0-679-76489-8,"Harry Potter and the Sorcerers Stone",2
+978-0-679-77644-3,Beloved,1
+978-0-7432-4722-5,"Angels & Demons",1
+978-0-7432-7356-4,"The Hobbit",1
+978-0-7432-7357-1,"1491: New Revelations of the Americas Before Columbus",1
+978-0-7434-7679-3,"The Stand",1
